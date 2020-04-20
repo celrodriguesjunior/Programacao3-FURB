@@ -1,0 +1,48 @@
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 650px;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    border-style: groove;
+    border-color: red;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fproduto.mercadolivre.com.br%2FMLB-827093489-20-planos-de-fundo-slides-templates-powerpoint-dashboard-_JM&psig=AOvVaw3e8JHPYD0jZjFOvtZiGils&ust=1587215615089000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiV343F7-gCFQAAAAAdAAAAABAD);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blueviolet;
+    background-color: aqua;
+    width: 200px;
+    height: 50px;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+h2{
+    text-align: center;
+}
+
+form{
+    margin-left: 90px;
+}
+
+label{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-style: bold;
+}
+
+input{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: white;
+    width: 200px;
+    margin-left: 10px;
+    height: 25px;
+    font-size: larger;
+}

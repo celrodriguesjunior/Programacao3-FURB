@@ -1,0 +1,43 @@
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color:#cdf0ff;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 650px;
+}
+
+nav{
+    background-color: #dae44e;
+    margin-bottom: 10px;
+    height: 130px;
+    border: 7px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    
+}
+
+nav ul li ul {
+    display: none;
+    text-align: center; 
+}
+
+nav ul li:hover ul {
+    position: absolute;
+    display: block;
+    
+}
+
+nav li {
+    list-style: none;
+    text-align: center;
+}
+
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

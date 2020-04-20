@@ -1,0 +1,23 @@
+body{
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color:#cdf0ff;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 650px;
+}
+
+table{
+    border: solid;
+    border-width: 4px;
+    border-color: rgba(0, 0, 0, 0);
+}
+
+td{
+    width: 50px;
+}
+
+table:hover {
+    border-color: rgba(0, 0, 0, 100);
+}
+
+
